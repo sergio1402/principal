@@ -1,0 +1,27 @@
+C:\Users\mshad_000\Desktop\TESCI\6 SEXTO SEMESTRE\LENGUAJES Y AUTÓMATAS II\CHAT BOT\chat\chat\bin\Debug\chat.exe.config
+C:\Users\mshad_000\Desktop\TESCI\6 SEXTO SEMESTRE\LENGUAJES Y AUTÓMATAS II\CHAT BOT\chat\chat\bin\Debug\chat.exe
+C:\Users\mshad_000\Desktop\TESCI\6 SEXTO SEMESTRE\LENGUAJES Y AUTÓMATAS II\CHAT BOT\chat\chat\bin\Debug\chat.pdb
+C:\Users\mshad_000\Desktop\TESCI\6 SEXTO SEMESTRE\LENGUAJES Y AUTÓMATAS II\CHAT BOT\chat\chat\bin\Debug\chat.xml
+C:\Users\mshad_000\Desktop\TESCI\6 SEXTO SEMESTRE\LENGUAJES Y AUTÓMATAS II\CHAT BOT\chat\chat\obj\Debug\chat.vbprojAssemblyReference.cache
+C:\Users\mshad_000\Desktop\TESCI\6 SEXTO SEMESTRE\LENGUAJES Y AUTÓMATAS II\CHAT BOT\chat\chat\obj\Debug\chat.Form1.resources
+C:\Users\mshad_000\Desktop\TESCI\6 SEXTO SEMESTRE\LENGUAJES Y AUTÓMATAS II\CHAT BOT\chat\chat\obj\Debug\chat.Resources.resources
+C:\Users\mshad_000\Desktop\TESCI\6 SEXTO SEMESTRE\LENGUAJES Y AUTÓMATAS II\CHAT BOT\chat\chat\obj\Debug\chat.vbproj.GenerateResource.cache
+C:\Users\mshad_000\Desktop\TESCI\6 SEXTO SEMESTRE\LENGUAJES Y AUTÓMATAS II\CHAT BOT\chat\chat\obj\Debug\chat.vbproj.CoreCompileInputs.cache
+C:\Users\mshad_000\Desktop\TESCI\6 SEXTO SEMESTRE\LENGUAJES Y AUTÓMATAS II\CHAT BOT\chat\chat\obj\Debug\chat.exe
+C:\Users\mshad_000\Desktop\TESCI\6 SEXTO SEMESTRE\LENGUAJES Y AUTÓMATAS II\CHAT BOT\chat\chat\obj\Debug\chat.xml
+C:\Users\mshad_000\Desktop\TESCI\6 SEXTO SEMESTRE\LENGUAJES Y AUTÓMATAS II\CHAT BOT\chat\chat\obj\Debug\chat.pdb
+C:\Users\mshad_000\Desktop\TESCI\6 SEXTO SEMESTRE\LENGUAJES Y AUTÓMATAS II\CHAT BOT\chat\chat\obj\Debug\chat.Form2.resources
+C:\Users\lopez\Downloads\chatobt\chat\chat\bin\Debug\chat.exe.config
+C:\Users\lopez\Downloads\chatobt\chat\chat\bin\Debug\chat.exe
+C:\Users\lopez\Downloads\chatobt\chat\chat\bin\Debug\chat.pdb
+C:\Users\lopez\Downloads\chatobt\chat\chat\bin\Debug\chat.xml
+C:\Users\lopez\Downloads\chatobt\chat\chat\obj\Debug\chat.vbproj.AssemblyReference.cache
+C:\Users\lopez\Downloads\chatobt\chat\chat\obj\Debug\chat.vbproj.SuggestedBindingRedirects.cache
+C:\Users\lopez\Downloads\chatobt\chat\chat\obj\Debug\chat.Form1.resources
+C:\Users\lopez\Downloads\chatobt\chat\chat\obj\Debug\chat.Form2.resources
+C:\Users\lopez\Downloads\chatobt\chat\chat\obj\Debug\chat.Resources.resources
+C:\Users\lopez\Downloads\chatobt\chat\chat\obj\Debug\chat.vbproj.GenerateResource.cache
+C:\Users\lopez\Downloads\chatobt\chat\chat\obj\Debug\chat.vbproj.CoreCompileInputs.cache
+C:\Users\lopez\Downloads\chatobt\chat\chat\obj\Debug\chat.exe
+C:\Users\lopez\Downloads\chatobt\chat\chat\obj\Debug\chat.xml
+C:\Users\lopez\Downloads\chatobt\chat\chat\obj\Debug\chat.pdb
